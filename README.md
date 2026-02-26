@@ -40,8 +40,6 @@ remove specific virtual displays. It also supports features like changing
 display resolution, capturing screenshots, and more, making it a versatile tool
 for flexible display management.
 
-👉 Check out [Releases](https://github.com/nomi-san/parsec-vdd/releases) to
-download it.
 
 <p align="center">
   <img src="https://github.com/nomi-san/parsec-vdd/assets/38210249/71b25bc6-eee1-4d80-94e0-e39eab7f8fb9" />
