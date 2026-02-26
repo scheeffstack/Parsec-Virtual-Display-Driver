@@ -12,15 +12,6 @@
   ✨ Perfect <strong>virtual display</strong> for game streaming
 </p>
 
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/github/stars/nomi-san/parsec-vdd?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/nomi-san/parsec-vdd/releases">
-    <img src="https://img.shields.io/github/downloads/nomi-san/parsec-vdd/total?style=for-the-badge" />
-  </a>
-</p>
-
 <br>
 
 ## ℹ About
